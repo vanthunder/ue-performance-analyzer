@@ -179,3 +179,22 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# --------------------------------------------------
+# Project-specific (UE Performance Analyzer)
+# Generated Excel reports
+messungen_auswertung.xlsx
+messungen_auswertung_*.xlsx
+
+# (Uncomment to ignore raw measurement CSVs if you don't want them in Git)
+# messungen/*.csv
+
+# Local profiling / traces / diagnostics
+trace.out
+*.trace
+profile.json
+
+# OS / Editor artifacts (additional)
+Thumbs.db
+Desktop.ini
+*.code-workspace

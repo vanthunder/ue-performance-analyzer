@@ -180,7 +180,7 @@ If you use this tool in academic research, please cite:
   title = {UE Performance Analyzer: Robust CSV Analysis for Unreal Engine Profiler Data},
   year = {2025},
   version = {1.0.0},
-  url = {https://github.com/username/ue-performance-analyzer}
+  url = {https://github.com/vanthunder/ue-performance-analyzer}
 }
 ```
 
